@@ -11,7 +11,7 @@ sudo apt-get autoremove
 ```
 
 
-Applications to remove
+## Applications to remove
 ```
 libreoffice - Definitely not needed. Use google docs instead. Saves 761 MB. :smile:
 calendar - GUI not needed. Use google calender instead. Saves 456 kB.
